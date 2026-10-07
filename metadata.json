@@ -1,0 +1,6 @@
+{
+  "name": "Swaad-e-Desi",
+  "description": "Swaad-e-Desi | Premium Traditional Pakistani Desi Ghee. Pure grass-fed, traditionally bilona-churned desi ghee handcrafted in Punjab. Order directly through WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
